@@ -2,7 +2,7 @@
 A bookmarklet that changes the text of each tweet on Twitter.
 
 ## How to use
-In your browser, create a new bookmarket. Call it whatever you want. For it's URL/location/whatever, copy & paste the contents of ```[bookmarklet.js]```(https://github.com/benTheBike/change-tweet-text-bookmarklet/blob/master/bookmarklet.js) in it.
+In your browser, create a new bookmarket. Call it whatever you want. For it's URL/location/whatever, copy & paste the contents of ```[bookmarklet.js](https://github.com/benTheBike/change-tweet-text-bookmarklet/blob/master/bookmarklet.js)``` in it.
 
 Then change ```TEXT``` to whatever you want each tweet to say.
 
